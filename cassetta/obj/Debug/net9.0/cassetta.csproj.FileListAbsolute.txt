@@ -1,0 +1,14 @@
+C:\Users\gahia\source\repos\cassetta\bin\Debug\net9.0\cassetta.exe
+C:\Users\gahia\source\repos\cassetta\bin\Debug\net9.0\cassetta.deps.json
+C:\Users\gahia\source\repos\cassetta\bin\Debug\net9.0\cassetta.runtimeconfig.json
+C:\Users\gahia\source\repos\cassetta\bin\Debug\net9.0\cassetta.dll
+C:\Users\gahia\source\repos\cassetta\bin\Debug\net9.0\cassetta.pdb
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.AssemblyInfoInputs.cache
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.AssemblyInfo.cs
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.csproj.CoreCompileInputs.cache
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.dll
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\refint\cassetta.dll
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.pdb
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\cassetta.genruntimeconfig.cache
+C:\Users\gahia\source\repos\cassetta\obj\Debug\net9.0\ref\cassetta.dll
